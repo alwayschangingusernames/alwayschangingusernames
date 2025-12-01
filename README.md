@@ -1,5 +1,4 @@
 ## I'm a high school student working on random projects that I make up in my free time.
-#### I would appreciate it if people would not bring up politics in conversations with me.
 
 ## <a href="https://wyllstudios.github.io/Wyll-Studios" target="__blank">Portfolio</a>
 
