@@ -1,9 +1,9 @@
 ## I'm a high school student working on random projects that I make up in my free time.
 
-## <a href="https://wyllstudios.github.io/Wyll-Studios" target="__blank">Portfolio</a>
+## <a href="#" target="__blank">Portfolio</a>
 
 ### Socials:
--  **<a href="https://youtube.com/@wyll.studios" target="__blank">YouTube</a>**.
+-  **<a href="#" target="__blank">YouTube</a>**.
 -  **<a href="#" target="__blank">Instagram</a>**.
 -  **<a href="#" target="__blank">Twitter / X</a>**.
 
