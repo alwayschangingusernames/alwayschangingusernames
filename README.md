@@ -5,8 +5,8 @@
 
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=boogiexan&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boogiexan&layout=compact&theme=radical&hide_border=true) 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=boogiexan&show_icons=true&theme=radical&hide_border=true) <br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boogiexan&layout=compact&theme=radical&hide_border=true) <br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=boogiexan)](https://git.io/streak-stats)
 
 ### Released Project Languages
