@@ -18,7 +18,8 @@
 
 ### [Discord Bot Handler](https://github.com/boogiexan/Discord-Bot-Handler)
 > Just a discord bot I'm working on when I remember.
-![Project 1 Language](https://img.shields.io/badge/-Tech%20Used-blue)
+
+![Project 1 Language](https://img.shields.io/badge/-Tech%20Used-blue) <br>
 ![Stars](https://img.shields.io/github/stars/boogiexan/Discord-Bot-Handler)
 
 
