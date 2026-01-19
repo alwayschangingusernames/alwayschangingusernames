@@ -28,7 +28,7 @@
 
 ## Misc
 
-- 🔭 I'm currently working on: [Testificate Villagers](https://github.com/alwayschangingusernames/#) ![Stars](https://img.shields.io/github/stars/alwayschangingusernames/#)
+- 🔭 I'm currently working on: [Testificate Villagers](https://github.com/alwayschangingusernames/#) [Stars](https://img.shields.io/github/stars/alwayschangingusernames/#)
 - 🌱 I'm currently learning: **Frontend Web Development**
 - 🤔 I'm looking for help with: **Learning Java**
 </div>
