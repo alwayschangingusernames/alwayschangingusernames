@@ -1,13 +1,13 @@
 <div>
 
-# Welcome, I'm boogiexan.
-![GitHub Followers](https://img.shields.io/github/followers/boogiexan?style=social)  ![GitHub Stars](https://img.shields.io/github/stars/boogiexan?style=social)
+# Welcome, I'm haze!
+![GitHub Followers](https://img.shields.io/github/followers/alwayschangingusernames?style=social)  ![GitHub Stars](https://img.shields.io/github/stars/alwayschangingusernames?style=social)
 
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=boogiexan&show_icons=true&theme=radical&hide_border=true) <br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boogiexan&layout=compact&theme=radical&hide_border=true) <br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=boogiexan)](https://git.io/streak-stats)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alwayschangingusernames&show_icons=true&theme=radical&hide_border=true) <br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alwayschangingusernames&layout=compact&theme=radical&hide_border=true) <br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=alwayschangingusernames)](https://git.io/streak-stats)
 
 ### Released Project Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -16,14 +16,14 @@
 
 ## Featured Projects
 
-### [Discord Bot Handler](https://github.com/boogiexan/Discord-Bot-Handler) ![Stars](https://img.shields.io/github/stars/boogiexan/Discord-Bot-Handler)
+### [Discord Bot Handler](https://github.com/alwayschangingusernames/Discord-Bot-Handler) ![Stars](https://img.shields.io/github/stars/alwayschangingusernames/Discord-Bot-Handler)
 
 > Just a discord bot I'm working on when I remember.
 
 
 ## Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=boogiexan&theme=react-dark&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alwayschangingusernames&theme=react-dark&hide_border=true)
 
 
 ## Misc
