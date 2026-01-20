@@ -1,24 +1,23 @@
 <div>
-
 # Welcome, I'm haze!
-![GitHub Followers](https://img.shields.io/github/followers/alwayschangingusernames?style=social)  ![GitHub Stars](https://img.shields.io/github/stars/alwayschangingusernames?style=social)
+#### ![GitHub Followers](https://img.shields.io/github/followers/alwayschangingusernames?style=social)  ![GitHub Stars](https://img.shields.io/github/stars/alwayschangingusernames?style=social)
 
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alwayschangingusernames&show_icons=true&theme=radical&hide_border=true) <br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alwayschangingusernames&layout=compact&theme=radical&hide_border=true) <br>
+#### ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alwayschangingusernames&show_icons=true&theme=radical&hide_border=true) <br>
+#### ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alwayschangingusernames&layout=compact&theme=radical&hide_border=true) <br>
 
 ### Released Project Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+#### ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+#### ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
----
+#### ---
 
 ## Featured Projects
 
 ### [Discord Bot Handler](https://github.com/alwayschangingusernames/Discord-Bot-Handler) ![Stars](https://img.shields.io/github/stars/alwayschangingusernames/Discord-Bot-Handler)
 
-> Just a discord bot I'm working on when I remember.
+#### > Just a discord bot I'm working on when I remember.
 
 
 ## Activity Graph
@@ -29,6 +28,6 @@
 ## Misc
 
 #### - 🔭 I'm currently working on: [Testificate Villagers](https://github.com/alwayschangingusernames/Testificate-Villagers) ![Stars](https://img.shields.io/github/stars/alwayschangingusernames/Testificate-Villagers)
-- 🌱 I'm currently learning: **Frontend Web Development**
-- 🤔 I'm looking for help with: **Learning Java**
+#### - 🌱 I'm currently learning: **Frontend Web Development**
+#### - 🤔 I'm looking for help with: **Learning Java**
 </div>
