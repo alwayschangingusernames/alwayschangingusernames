@@ -15,8 +15,7 @@
 ## Featured Projects
 
 ### [Discord Bot Handler](https://github.com/alwayschangingusernames/Discord-Bot-Handler) ![Stars](https://img.shields.io/github/stars/alwayschangingusernames/Discord-Bot-Handler)
-
-#### > Just a discord bot I'm working on when I remember.
+#### > Just a Discord bot I'm working on when I remember.
 
 
 ## Activity Graph
@@ -27,6 +26,6 @@
 ## Misc
 
 #### - 🔭 I'm currently working on: [Testificate Villagers](https://github.com/alwayschangingusernames/Testificate-Villagers) ![Stars](https://img.shields.io/github/stars/alwayschangingusernames/Testificate-Villagers)
-#### - 🌱 I'm currently learning: **Frontend Web Development**
-#### - 🤔 I'm looking for help with: **Learning Java**
+#### - 🌱 I'm currently learning: Frontend Web Development
+#### - 🤔 I'm looking for help with: Learning Java
 </div>
