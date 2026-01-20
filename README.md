@@ -8,8 +8,7 @@
 #### ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alwayschangingusernames&layout=compact&theme=radical&hide_border=true) <br>
 
 ### Released Project Languages
-#### ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-#### ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+#### ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 #### ---
 
